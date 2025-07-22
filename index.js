@@ -8,4 +8,4 @@
 
 document.getElementById("top_wrap").appendChild(menu)
 };
-windows.onload="main()";
+window.onload=main;
