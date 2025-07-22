@@ -16,3 +16,4 @@ menu.style.height = "25px";*/
 
 document.getElementById("top_wrap").appendChild("menu")
 };
+Windows.onload="main()";
