@@ -14,5 +14,5 @@ menu.style.backgroundColor = "red";
 menu.style.width = "100px";
 menu.style.height = "25px";*/
 
-document.getElementById("top_wrap").appendChild(menu);
+document.getElementById("top_wrap").appendChild("menu");
 }
